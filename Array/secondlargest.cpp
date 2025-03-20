@@ -19,7 +19,7 @@ int main(){
         // }
         // cout << secondmax << endl ;
 
-    // Optimized Approach O(2n)
+    // Better Approach O(2n)
         // int max = -1 ;
         // for(int i=0 ; i<n ; i++){
         //     if(arr[i]>max){
