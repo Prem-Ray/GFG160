@@ -57,6 +57,5 @@ To run these solutions, you will need:
 
 Suggestions and improvements are always welcome! If you find a bug or can optimize a solution, feel free to open a pull request.
 
-@geeksforgeeks
 
 ---
