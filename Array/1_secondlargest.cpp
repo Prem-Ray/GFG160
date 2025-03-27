@@ -6,7 +6,6 @@ int main(){
     vector<int>arr = {10, 5, 10} ;
     int n = arr.size() ;
 
-
     // Brute Force Approach O(nlogn+n)
         // sort(arr.begin(),arr.end()) ;  
         // int max = arr[n-1] ;
