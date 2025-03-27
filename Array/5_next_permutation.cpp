@@ -30,7 +30,6 @@ int main(){
             reverse(arr.begin()+index+1,arr.end()) ;
         }
 
-
         for(auto i:arr){
             cout<<i<<" " ;
         }
