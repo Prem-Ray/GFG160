@@ -18,7 +18,6 @@ int main(){
     cout<<profit<<endl ;
 
 
-
     return 0 ;
 
 }
