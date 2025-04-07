@@ -1,7 +1,6 @@
 #include<bits\stdc++.h>
 using namespace std ;
 
-
 class Solution {
     public:
       string addBinary(string& s1, string& s2) {
